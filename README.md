@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/26241686?v=4" width="120" height="120" alt="clover233" style="border-radius: 50%; border: 3px solid #00d9ff;"/>
   
-  ✨ **Welcome to my digital garden** ✨
+  ✨ **Welcome to follow ME** ✨
   
   [![GitHub](https://img.shields.io/badge/GitHub-%40clover233-2ea44f?style=for-the-badge&logo=github)](https://github.com/clover233)
 </div>
