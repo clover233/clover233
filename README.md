@@ -33,18 +33,6 @@ I'm **clover233**, a passionate developer exploring the digital landscape on Git
 
 ---
 
-## 📊 Quick Stats
-
-| Metric | Value |
-|--------|-------|
-| **GitHub ID** | 26241686 |
-| **Username** | @clover233 |
-| **Account Type** | Public User |
-| **Admin Status** | Community Member |
-| **Member Since** | Year of Growth & Learning |
-
----
-
 ## 🎨 Interests & Passions
 
 - 💻 Software Development
@@ -87,8 +75,6 @@ I'm **clover233**, a passionate developer exploring the digital landscape on Git
 <div align="center">
 
 **Made with ❤️ by clover233**
-
-*Last updated: March 18, 2026*
 
 **Thanks for stopping by! Feel free to explore and reach out! 🚀**
 
