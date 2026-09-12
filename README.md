@@ -19,7 +19,7 @@
 我专注于移动端性能分析、系统底层实验与自动化工具开发，喜欢把零散的数据采集、解析和定位过程沉淀成可复用的工具。
 
 - 🔍 iOS / Android / HarmonyOS 动态性能、内存、卡顿与性能数据分析
-- 📈 A 股行情结构、资金流向与多模型 AI 量化研究（[StockInsight](https://www.wangzijian.cn/)）
+- 📈 A 股行情结构、资金流向与多模型 AI 量化研究（
 - ⚙️ CPU 性能计数器、底层机制与工程实践
 - 🧰 使用 Python 与 Shell 构建自动化采集、解析工具
 - 📊 SEG-Y / 二进制数据转换与处理
@@ -30,7 +30,7 @@
 | --- | --- | --- |
 | [SeaOfStars7i](https://github.com/clover233/SeaOfStars7i) | iOS 动态性能模型测试用例集与 Trace 数据采集、分析框架 | Python · Trace |
 | [SeaOfStars7a](https://github.com/clover233/SeaOfStars7a) | Android 动态性能模型测试用例集，配套自动化执行脚本 | Python |
-| [stock-insight](https://github.com/clover233/stock-insight) | A 股智能研究终端：智能选股、缠论结构、资金流向、市场情报与多模型 AI 分析（[在线体验](https://www.wangzijian.cn/)） | Python · AI |
+| [stock-insight](https://github.com/clover233/stock-insight) | A 股智能研究终端：智能选股、缠论结构、资金流向、市场情报与AI 分析（[在线体验](https://www.wangzijian.cn/)） | Python · AI |
 | [autoTool](https://github.com/clover233/autoTool) | iOS / HarmonyOS 性能与内存数据采集、解析工具集 | Python · Shell · xctrace |
 | [libkperf](https://github.com/clover233/libkperf) | 在 macOS / iOS 上读取 Intel 与 Apple Silicon CPU 性能计数器的实验项目 | C · CMake |
 | [gfxbench](https://github.com/clover233/gfxbench) | 面向现代 iOS 工具链的 GFXBench 构建与兼容性修复 | C · CMake · iOS |
