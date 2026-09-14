@@ -30,8 +30,8 @@
 | --- | --- | --- |
 | [SeaOfStars7i](https://github.com/clover233/SeaOfStars7i) | iOS 动态性能模型测试用例集与 Trace 数据采集、分析框架 | Python · Trace |
 | [SeaOfStars7a](https://github.com/clover233/SeaOfStars7a) | Android 动态性能模型测试用例集，配套自动化执行脚本 | Python |
-| [stock-insight](https://github.com/clover233/stock-insight) | A 股智能研究终端：智能选股、缠论结构、资金流向、市场情报与AI 分析（[在线体验](https://www.wangzijian.cn/)） | Python · AI |
-| [autoTool](https://github.com/clover233/autoTool) | iOS / HarmonyOS 性能与内存数据采集、解析工具集 | Python · Shell · xctrace |
+| [stock-insight](https://github.com/clover233/stock-insight) | 智能选股、缠论结构、资金流向、市场情报与AI 分析（[在线体验](https://www.wangzijian.cn/)） | Python · AI |
+| [autoTool](https://github.com/clover233/autoTool) | iOS / HarmonyOS 性能与内存数据采集、解析工具集 | Python · Shell |
 | [libkperf](https://github.com/clover233/libkperf) | 在 macOS / iOS 上读取 Intel 与 Apple Silicon CPU 性能计数器的实验项目 | C · CMake |
 | [gfxbench](https://github.com/clover233/gfxbench) | 面向现代 iOS 工具链的 GFXBench 构建与兼容性修复 | C · CMake · iOS |
 | [Segy2dat](https://github.com/clover233/Segy2dat) | 将本地 SEG-Y 地震数据转换为 DAT 二进制格式 | Python |
