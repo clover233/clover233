@@ -8,6 +8,7 @@
 
   <p>
     <a href="https://www.wangzijian.cn/"><img src="https://img.shields.io/badge/Website-wangzijian.cn-0A66C2?style=flat-square&logo=safari&logoColor=white" alt="Personal website" /></a>
+    <a href="https://cig.ustc.edu.cn/zijian/list.htm"><img src="https://img.shields.io/badge/USTC-CIG%20Profile-004098?style=flat-square&logo=academia&logoColor=white" alt="USTC CIG profile" /></a>
     <a href="https://github.com/clover233?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-2ea44f?style=flat-square&logo=github&logoColor=white" alt="GitHub projects" /></a>
     <a href="mailto:wzj0913@mail.ustc.edu.cn"><img src="https://img.shields.io/badge/Email-wzj0913@mail.ustc.edu.cn-EA4335?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Shanghai-China-EA4335?style=flat-square&logo=googlemaps&logoColor=white" alt="Shanghai, China" />
