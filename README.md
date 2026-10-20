@@ -29,8 +29,6 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [SeaOfStars7i](https://github.com/clover233/SeaOfStars7i) | iOS 动态性能模型测试用例集与 Trace 数据采集、分析框架 | Python · Trace |
-| [SeaOfStars7a](https://github.com/clover233/SeaOfStars7a) | Android 动态性能模型测试用例集，配套自动化执行脚本 | Python |
 | [stock-insight](https://github.com/clover233/stock-insight) | 智能选股、缠论结构、资金流向、市场情报与AI 分析（[在线体验](https://www.wangzijian.cn/)） | Python · AI |
 | [autoTool](https://github.com/clover233/autoTool) | iOS / HarmonyOS 性能与内存数据采集、解析工具集 | Python · Shell |
 | [libkperf](https://github.com/clover233/libkperf) | 在 macOS / iOS 上读取 Intel 与 Apple Silicon CPU 性能计数器的实验项目 | C · CMake |
@@ -52,7 +50,7 @@
 
 ## Currently Exploring / 最近在做
 
-- 建设 iOS / Android 动态性能模型测试用例库（SeaOfStars7i / SeaOfStars7a）
+- 建设 iOS / Android 动态性能模型测试用例库
 - 打磨 StockInsight：选股信号、缠论结构与多模型 AI 分析的量化研究工作台
 - 完善移动端内存采集、解析与报告流程
 - 探索 iOS 系统性能指标和底层计数器
